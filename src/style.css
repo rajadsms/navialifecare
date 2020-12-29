@@ -1,0 +1,37 @@
+.NLC-queAnsDash {
+  display: flex;
+  flex-direction: column;
+}
+.NLC-answersRow {
+  flex-direction: row;
+  display: flex;
+  align-items: center;
+  padding: 8px;
+}
+.NLC-eachQue {
+  width: 50%;
+  display: inherit;
+}
+input[type='submit'] {
+  margin-right: 20px;
+  margin: 8px;
+}
+.NLC-buttonContainer {
+  display: flex;
+  flex-direction: row;
+}
+.NLC-alignCenter {
+  text-align: center;
+}
+table,
+th,
+td {
+  border: 1px solid black;
+  padding: 5px;
+}
+.NLC-header {
+  font-weight: bold;
+}
+.NLC-rightAlign {
+  text-align: right;
+}

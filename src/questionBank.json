@@ -1,0 +1,60 @@
+{
+  "Question Bank": {
+  "header": "Assesment 2020",
+  "timeLimit":"20",
+  "question": [
+      {
+      "id":1,
+      "question": "Which of the following is not JavaScript Data Types?",
+      "option1":"Undefined",
+      "option2":"Number",
+      "option3":"Boolean",
+      "option4":"Float",
+      "answer":"option4"
+      },
+      { "id":2,
+        "question": "In what way is the closure compiler efficient?",
+        "option1":"Increases the size of the JavaScript files",
+        "option2":"Reduces the size of the JavaScript files",
+        "option3":"Reduces the execution time",
+        "option4":"Reduces the speed",
+        "answer":"option2"
+        },
+  {
+    "id":3,
+    "question": "What is the purpose of the advanced mode in the closure compiler?",
+    "option1":"Renames variables",
+    "option2":"Renames function",
+    "option3":"Both Renames variables and function",
+    "option4":"Changes structures",
+    "answer":"option3"
+    },
+    {
+      "id":4,
+      "question": "What does the interpreter do when you reference variables in other scopes?",
+      "option1":"Traverses the queue",
+      "option2":"Traverses the stack",
+      "option3":"Finds the bugs",
+      "option4":"Traverse the array",
+      "answer":"option2"
+      },
+      {
+        "id":5,
+        "question": "What does the appendChild() method perform?",
+        "option1":"Appends a node in the middle of the index taken as the parameter",
+        "option2":"Appends a node as the first child",
+        "option3":"Appends a node as the last child",
+        "option4":"Replaces and appends at the last node",
+        "answer":"option3"
+        },
+        {
+          "id":6,
+          "question": "You can refresh the webpage in JavaScript by using ___________",
+          "option1":"window.reload",
+          "option2":"location.reload",
+          "option3":"window.refresh",
+          "option4":"page.refresh",
+          "answer":"option2"
+          }
+    ]
+}}
